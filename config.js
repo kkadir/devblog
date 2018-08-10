@@ -1,15 +1,15 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  tagline: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: 'Kadir Kılıçoğlu', // Required
+  author: 'Kadir Kılıçoğlu', // Required
+  tagline: 'Full-Stack Developer',
+  primaryColor: '#ff9900', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
+    website: 'http://kadir.co',
+    github: 'https://github.com/kkadir',
+    twitter: 'https://twitter.com/KilicogluKadir',
+    linkedin: 'https://www.linkedin.com/in/kadir-kilicoglu'
   }
 };
