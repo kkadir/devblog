@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  url: 'https://www.kadir.co',
+  title: 'Developer | Kadir Kılıçoğlu',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
@@ -23,16 +23,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Kadir Kılıçoğlu',
+    photo: '/main.png',
+    bio: 'A common technology enthusiast & an ordinary full-stack developer with simple interest in cutting-edge bubbles.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'kadir.kilicoglu@gmail.com',
+      linkedin: 'kadir-kilicoglu',
+      github: 'kkadir'
     }
   }
 };

@@ -10,15 +10,12 @@ describe('Sidebar', () => {
           siteMetadata: {
             author: {
               name: 'name',
-              photo: '/photo.jpg',
+              photo: '/main.png',
               bio: 'bio',
               contacts: {
                 email: '#',
-                twitter: '#',
-                vkontakte: '#',
-                github: '#',
-                rss: '#',
-                telegram: '#'
+                linekdin: '#',
+                github: '#'
               }
             },
             copyright: 'copyright',
